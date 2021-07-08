@@ -14,7 +14,8 @@ My Telegram channel: [@petro_onishchuk_dev](https://t.me/petro_onishchuk_dev)
 My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petro_onishchuk)
 
 ## 1. [UIButton and UIButton.Configuration]()
-(UIButton programmatically & UIButton.Configuration )
+(UIButton programmatically & UIButton.Configuration)
+
 [GitHub](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/CustomUIButton01)<br />
 
 [YouTube](https://youtu.be/W-caDwLOi4I) <br />
