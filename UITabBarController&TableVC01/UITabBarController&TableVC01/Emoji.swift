@@ -24,7 +24,7 @@ struct Emoji {
 
 
 // For create an EmojiCategory object
-class EmojiCategory: ObservableObject {
+struct EmojiCategory {
     var id: UUID
     var name: String
     var symbol: String
