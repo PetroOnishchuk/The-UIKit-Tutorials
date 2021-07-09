@@ -10,10 +10,10 @@ import UIKit
 class CustomUITabBarController: UITabBarController {
     
     let allEmojiCategory = EmojiCategory.allCategories
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // Do any additional setup after loading the view.
         
         setupTabBarController()
@@ -28,7 +28,7 @@ class CustomUITabBarController: UITabBarController {
     }
     
     func setupViewControllers() -> [UIViewController] {
-         var allControllers = [UIViewController]()
+        var allControllers = [UIViewController]()
         
         for category in allEmojiCategory {
             let tableVC = EmojiTableViewController()
@@ -41,6 +41,6 @@ class CustomUITabBarController: UITabBarController {
         
         return allControllers
     }
-
+    
     
 }
