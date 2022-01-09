@@ -13,6 +13,7 @@
 		984C840E278B0D8C0070184C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 984C840C278B0D8C0070184C /* Main.storyboard */; };
 		984C8410278B0D8E0070184C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 984C840F278B0D8E0070184C /* Assets.xcassets */; };
 		984C8413278B0D8E0070184C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 984C8411278B0D8E0070184C /* LaunchScreen.storyboard */; };
+		984C841D278B12040070184C /* BooksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984C841C278B12040070184C /* BooksViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		984C840F278B0D8E0070184C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		984C8412278B0D8E0070184C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		984C8414278B0D8E0070184C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		984C841C278B12040070184C /* BooksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooksViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				984C8406278B0D8C0070184C /* AppDelegate.swift */,
 				984C8408278B0D8C0070184C /* SceneDelegate.swift */,
+				984C841C278B12040070184C /* BooksViewController.swift */,
 				984C840A278B0D8C0070184C /* ViewController.swift */,
 				984C840C278B0D8C0070184C /* Main.storyboard */,
 				984C840F278B0D8E0070184C /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				984C840B278B0D8C0070184C /* ViewController.swift in Sources */,
+				984C841D278B12040070184C /* BooksViewController.swift in Sources */,
 				984C8407278B0D8C0070184C /* AppDelegate.swift in Sources */,
 				984C8409278B0D8C0070184C /* SceneDelegate.swift in Sources */,
 			);
