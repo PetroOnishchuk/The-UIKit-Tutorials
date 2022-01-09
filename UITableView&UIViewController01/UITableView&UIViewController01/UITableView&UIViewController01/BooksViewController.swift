@@ -64,7 +64,11 @@ class BooksViewController: UIViewController {
             // create a new Book
             self?.createNewBook()
         }
+        let cancelAction = UIAlertAction(title: "Cancel", style: .destructive) {[weak self] _ in
+            self?.cleanTextFields()
+        }
         bookFormAlert.addAction(addAction)
+        bookFormAlert.addAction(cancelAction)
     }
     
     //MARK: - create New Book
@@ -126,7 +130,7 @@ extension BooksViewController: UITableViewDelegate, UITableViewDataSource {
         content.text = book.title
         content.image = UIImage(systemName: "book")
         content.secondaryText = "Author: \(book.author). Publication date: \(book.publicationDate)"
-        
+        content.imageProperties.tintColor = .purple
         cell.contentConfiguration = content
         
         return cell
