@@ -23,6 +23,12 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 ## 2. [UITabBarController & UITableViewController & UITableViewCell](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/UITabBarController%26TableVC01)
 (Project without Storyboard. All created Programmatically)
 
-[GitHun](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/UITabBarController%26TableVC01)<br />
+[GitHub](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/UITabBarController%26TableVC01)<br />
 
 [YouTube](https://youtu.be/-Tc8anX6feU)<br />
+
+## 3. [UITableView & UIViewController](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/UITableView%26UIViewController01/UITableView%26UIViewController01)
+
+[GitHub](https://github.com/PetroOnishchuk/The-UIKit-Tutorials/tree/master/UITableView%26UIViewController01/UITableView%26UIViewController01)<br />
+
+[YouTube](https://youtu.be/kDqzUPyZhik)<br />
