@@ -59,5 +59,5 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 [YouTube](https://youtu.be/W-caDwLOi4I) <br />
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=petroonishchuk.petroonishchuk)
 
